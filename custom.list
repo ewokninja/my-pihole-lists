@@ -2,7 +2,6 @@
 192.168.2.193 bedroom-echo.jt.ca
 192.168.168.29 berry.soho.ca
 192.168.2.168 echo.jt.ca
-192.168.2.92 heimdall.jt.ca
 192.168.168.225 mei.soho.ca
 192.168.168.173 nas.soho.ca
 192.168.2.10 nextcloud.jt.ca
@@ -24,3 +23,4 @@
 192.168.2.59 mei.jt.ca
 192.168.2.58 pbx.jt.ca
 1.1.1.1 00test.jt.ca
+192.168.2.92 heimdall.jt.ca
